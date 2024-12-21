@@ -1,4 +1,4 @@
-                                                                               ANOMALY DETECTİON USİNG KAFKA AND SPARK
+                                                                  ANOMALY DETECTİON USİNG KAFKA AND SPARK
 
 
 PREPROCESSİNG STEPS
