@@ -18,6 +18,7 @@ PREPROCESSİNG STEPS
 ![Resim Açıklaması](images/outlier_2.png)
 
 4-Data Visualization
+
 4.1-Histogram Chart
 
 
@@ -39,14 +40,17 @@ PREPROCESSİNG STEPS
 ![Resim Açıklaması](images/anomal_gorsel.png)
 
 5-Artificial İntelligence Model Development and Report
+
 5.1.-Random Forest Model
 
 
 ![Resim Açıklaması](images/random_rapor.png)
+
 5.2.-Decision Tree Model
 
 
 ![Resim Açıklaması](images/decision_rapor.png)
+
 5.3.Logistic Regression Model
 
 
@@ -58,10 +62,12 @@ KAFKA
 
 ![Resim Açıklaması](images/zookeeper_start.png)
 ![Resim Açıklaması](images/kafka_start.png)
+
 2.-Sending Data to Topic
 
 
 ![Resim Açıklaması](images/producer_cikti.png)
+
 3.- Retrieve Data from Topic
 
 
