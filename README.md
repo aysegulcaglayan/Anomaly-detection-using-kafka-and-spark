@@ -1,3 +1,6 @@
+                                                                               ANOMALY DETECTİON USİNG KAFKA AND SPARK
+
+
 PREPROCESSİNG STEPS
 
 1-Removal of missing data
